@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+myvenv/
+db.sqlite3
+tram/templates/tram/images/generated/
+files/
