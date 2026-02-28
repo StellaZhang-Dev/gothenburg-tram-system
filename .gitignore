@@ -19,3 +19,6 @@ db.sqlite3
 
 # archives
 *.zip
+
+# peer review artifacts
+lab3-tram-webapp/reviews/
